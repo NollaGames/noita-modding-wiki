@@ -62,12 +62,16 @@ Other:
 
 Uploading using the upload wizard
 ---
-Run the following command from a command line (or use workshop_upload.bat shipped with the game):<br>
+1) Make sure you're logged into your Steam account.
+2) Navigate into your Noita directory using a command line. 
+3) Run the following command (or use workshop_upload.bat shipped with the game):<br>
 	`noita_dev.exe -workshop_upload`
 
 Batch upload:
 ---
-Run the following command from a command line:<br>
+1) Make sure you're logged into your Steam account.
+2) Navigate into your Noita directory using a command line. 
+3) Run the following command:<br>
 	`noita_dev.exe -workshop_upload MOD_NAME -workshop_upload_change_notes CHANGE_NOTES`<br>
 where MOD_NAME is the name of the mod folder inside the mods/ folder, for example nightmare<br>
 and where CHANGE_NOTES is the update's change notes or empty.<br>
