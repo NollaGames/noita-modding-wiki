@@ -3,5 +3,6 @@ Mods (modifications) are packages that change or add content and gameplay in Noi
 If you want to install mods, see [[Installing-mods]].
 
 
-[[Getting started|Getting-started]]<br>
-[[Best practices|Best-practices]]
+[[Getting-started]]<br>
+[[Best-practices]]<br>
+[[Uploading-and-updating-mods]]
