@@ -78,4 +78,4 @@ and where CHANGE_NOTES is the update's change notes or empty.<br>
 This allows uploading mods without any interrupts from the uploader UI.
 
 # Publishing without Steam
-[ModWorkshop](https://modworkshop.net/game/noita) is a popular repository for hosting Noita mods,
+[ModWorkshop](https://modworkshop.net/game/noita) is a popular repository for hosting Noita mods.
