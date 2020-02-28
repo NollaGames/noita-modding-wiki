@@ -75,7 +75,7 @@ Batch upload:
 	`noita_dev.exe -workshop_upload MOD_NAME -workshop_upload_change_notes CHANGE_NOTES`<br>
 where MOD_NAME is the name of the mod folder inside the mods/ folder, for example nightmare<br>
 and where CHANGE_NOTES is the update's change notes or empty.<br>
-This allows uploading mods without any interrupts from the UI.
+This allows uploading mods without any interrupts from the uploader UI.
 
 # Publishing without Steam
 [ModWorkshop](https://modworkshop.net/game/noita) is a popular repository for hosting Noita mods,
