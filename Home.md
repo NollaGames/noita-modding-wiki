@@ -7,4 +7,4 @@ If you'd like to install mods, see [[Installing mods|Installing-mods]].
 
 [[Getting started|Getting-started]]<br>
 [[Best practices|Best-practices]]<br>
-[[Uploading and updating mods|Uploading-and-updating-mods]]
+[[Publishing mods|Publishing-mods]]
